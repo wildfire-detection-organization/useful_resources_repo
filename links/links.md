@@ -6,3 +6,8 @@
 * [How to do Semantic Segmentation using Deep learning](https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef)
 * [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
 * [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf)
+* [VGG Image Annotator (VIA) - an image annotation tool](http://www.robots.ox.ac.uk/~vgg/software/via/)
+* [Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
+* [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)
+* [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
+* [Mask R-CNN](https://arxiv.org/abs/1703.06870)
