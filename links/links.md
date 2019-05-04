@@ -12,3 +12,4 @@
 * [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
 * [Mask R-CNN](https://arxiv.org/abs/1703.06870)
 * [Introduction to Geospatial Data in Python](https://www.datacamp.com/community/tutorials/geospatial-data-python)
+* [Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python / C++)](https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/)
